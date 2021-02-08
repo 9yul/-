@@ -1,5 +1,6 @@
 # 파이썬 잡코드 저장소
 여기에 둘 곳 없는 파이썬 잡코드들을 모아놓을거에요😆
+
 This part is written in Korean. Scroll down to see the English version.
 
 이 저장소는 늅늅이 개발자가 심심할때 만드는 잡코드들을 올리는 저장소입니다.
